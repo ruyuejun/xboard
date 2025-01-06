@@ -1,0 +1,9 @@
+# http://editorconfig.org
+
+root=true
+
+# [*.md]: used by markdown files
+[*]
+charset = utf-8
+indent_style = space
+indent_size = 2
